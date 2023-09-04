@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "Hola",
+      "answer": "Hola"
+    },
+    {
+      "question": "Como estas?",
+      "answer": "Muy bien, gracias por preguntar, dime en que te puedo ayudar?"
+    },
+    {
+      "question": "Cual es tu funcion?",
+      "answer": "Mi funcion es aprender palabras/frases brindadas por el usuario"
+    },
+    {
+      "question": "Adios",
+      "answer": "Nos vemos"
+    }
+  ]
+}
